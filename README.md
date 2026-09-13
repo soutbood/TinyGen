@@ -78,7 +78,7 @@ FiLM — basically a per-channel scale and shift predicted from the condition.
 Without it, the decoder will ignore `z` and just draw the average member
 of each class. With it, the latent actually matters.
 
-### Serving ###
+### Serving 
 
 An `ESPAsyncWebServer` WebSocket endpoint accepts (the only server i know about)
 `{"action":"generate","prompt":"..."}`, maps the prompt to one of the 10
@@ -86,7 +86,6 @@ Fashion-MNIST classes, samples `z`, runs the decoder in its own FreeRTOS task,
 and streams the image back as hex-encoded JSON. The browser decodes it and
 paints both canvases. with it the colorization is done on the browser so that
 the esp32-s2 can focus on generation instead.
----
 
 ## Why INT8? The memory math
 
