@@ -21,7 +21,7 @@ the Sneaker button), and about 30 seconds later the ESP32 sends back a sneaker
 that it generated, sampled from its own latent space. It's slow, it's
 tiny, and it's entirely self-contained.
 
-![TinyGen demo](docs/demo.mp4)
+![TinyGen demo]<video src="https://codeberg.org/soutbood/TinyGen/media/branch/main/docs/demo.mp4" controls width="600"></video>
 
 
 ---
