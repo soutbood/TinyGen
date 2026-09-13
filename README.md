@@ -1,9 +1,9 @@
 # ⚡ TinyGen — a Fashion-MNIST CVAE running entirely on an ESP32-S2
 
-[![Stars](https://img.shields.io/badge/dynamic/json?style=flat&logo=codeberg&logoColor=white&label=stars&color=blue&query=%24.stars_count&url=https%3A%2F%2Fcodeberg.org%2Fapi%2Fv1%2Frepos%2Fsoutbood%2FTinyGen)](https://codeberg.org/soutbood/TinyGen)
-[![Forks](https://img.shields.io/badge/dynamic/json?style=flat&logo=codeberg&logoColor=white&label=forks&color=teal&query=%24.forks_count&url=https%3A%2F%2Fcodeberg.org%2Fapi%2Fv1%2Frepos%2Fsoutbood%2FTinyGen)](https://codeberg.org/soutbood/TinyGen)
-[![Watchers](https://img.shields.io/badge/dynamic/json?style=flat&logo=codeberg&logoColor=white&label=watchers&color=orange&query=%24.watchers_count&url=https%3A%2F%2Fcodeberg.org%2Fapi%2Fv1%2Frepos%2Fsoutbood%2FTinyGen)](https://codeberg.org/soutbood/TinyGen)
-[![Issues](https://img.shields.io/badge/dynamic/json?style=flat&logo=codeberg&logoColor=white&label=issues&color=red&query=%24.open_issues_count&url=https%3A%2F%2Fcodeberg.org%2Fapi%2Fv1%2Frepos%2Fsoutbood%2FTinyGen)](https://codeberg.org/soutbood/TinyGen/issues)
+[![Stars](https://img.shields.io/github/stars/soutbood/TinyGen?style=flat&logo=github&logoColor=white&label=stars&color=blue)](https://github.com/soutbood/TinyGen)
+[![Forks](https://img.shields.io/github/forks/soutbood/TinyGen?style=flat&logo=github&logoColor=white&label=forks&color=teal)](https://github.com/soutbood/TinyGen)
+[![Watchers](https://img.shields.io/github/watchers/soutbood/TinyGen?style=flat&logo=github&logoColor=white&label=watchers&color=orange)](https://github.com/soutbood/TinyGen)
+[![Issues](https://img.shields.io/github/issues/soutbood/TinyGen?style=flat&logo=github&logoColor=white&label=issues&color=red)](https://github.com/soutbood/TinyGen/issues)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Chip](https://img.shields.io/badge/ESP32--S2-240%20MHz%20%7C%202%20MB%20PSRAM-red)](#hardware-requirements)
 [![C++](https://img.shields.io/badge/firmware-C%2B%2B-blue)](src/esp32.ino)
