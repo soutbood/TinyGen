@@ -78,7 +78,7 @@ FiLM — basically a per-channel scale and shift predicted from the condition.
 Without it, the decoder will ignore `z` and just draw the average member
 of each class. With it, the latent actually matters.
 
-### Serving
+### Serving ###
 
 An `ESPAsyncWebServer` WebSocket endpoint accepts (the only server i know about)
 `{"action":"generate","prompt":"..."}`, maps the prompt to one of the 10
