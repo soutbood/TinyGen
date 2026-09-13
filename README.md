@@ -191,5 +191,5 @@ This project builds on other people's work:
 - **ArduinoJson** — Benoît Blanchon — <https://arduinojson.org>
 - **PlatformIO** — <https://platformio.org>
 - Anonymous forum posters who wrote up ESP32 PSRAM/watchdog crash stories the second problem i faced.
-- A certain AI chat(not agent again i am on budget) on architecture, quantization, esp core, training method and generating this ReadMe as i know nothing about it.
+- A certain AI chat(not agent again i am on budget) on architecture, quantization, esp core, training method and generating this ReadMe as i know nothing about it's code format and bold header link etc.
 ---
