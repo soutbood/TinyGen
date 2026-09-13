@@ -167,7 +167,7 @@ Then open **`http://tinygen.local`** and click the button half a minute and done
 
 - Add explanation on how to train your own model i said multiple time you can use your
   own but never explain how the model's architecture is (maybe you can try extracting it
-  from export_model.py but it shouldn't work) i plan to do it eventually.
+  from the main.cpp but it shouldn't work) i plan to do it eventually.
 - Test it on ESP32-S3.
 
 ---
