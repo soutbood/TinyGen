@@ -1,3 +1,4 @@
+<https://codeberg.org/soutbood/TinyGen>
 # ⚡ TinyGen — a Fashion-MNIST CVAE running entirely on an ESP32-S2
 
 [![Stars](https://img.shields.io/github/stars/soutbood/TinyGen?style=flat&logo=github&logoColor=white&label=stars&color=blue)](https://github.com/soutbood/TinyGen)
