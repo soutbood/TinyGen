@@ -1,3 +1,4 @@
+THIS PROJECT WILL BE RE-WRITTEN WITHOUT LLM HELP
 <https://codeberg.org/soutbood/TinyGen>
 # ⚡ TinyGen — a Fashion-MNIST CVAE running entirely on an ESP32-S2
 
